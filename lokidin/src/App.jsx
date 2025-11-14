@@ -22,9 +22,9 @@ function App() {
         <Header></Header>
         <div className="w-9/10 grid lg:grid-cols-5 md:grid-cols-3 grid-cols-1 gap-10 mt-15 items-stretch auto-rows-fr">
           {
-            usuarios.map((usuario) => (
-              <Card key={usuario.id} {...usuario}></Card>
-            ))
+            usuarios.map((usuario, index) => 
+              index < 10 && (<Card key={usuario.id} {...usuario}></Card>)
+            )
           }
         </div>
         <Footer></Footer>
