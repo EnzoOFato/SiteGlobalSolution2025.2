@@ -1,9 +1,11 @@
+import Header from "./components/Header"
+
 function App() {
 
   return (
     <>
-      <div className="min-h-screen flex justify-center items-center">
-        
+      <div className="min-h-screen flex items-center flex-col bg-amber-50">
+        <Header></Header>
       </div>
     </>
   )
