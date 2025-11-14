@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
+import Card from "./components/Card"
 
 function App() {
 
@@ -19,6 +20,13 @@ function App() {
     <>
       <div className="min-h-screen flex items-center flex-col bg-amber-50">
         <Header></Header>
+        <div className="w-9/10 grid grid-cols-5 gap-10 mt-15 items-stretch auto-rows-fr">
+          {
+            usuarios.map((usuario) => (
+              <Card key={usuario.id} {...usuario}></Card>
+            ))
+          }
+        </div>
         <Footer></Footer>
       </div>
     </>
