@@ -16,13 +16,25 @@
         "inicio": "2022-03",
         "fim": "2023-12",
         "descricao": "Desenvolvimento de interfaces responsivas."
+      },
+      {
+        "empresa": "TechWave",
+        "cargo": "Frontend JR",
+        "inicio": "2022-03",
+        "fim": "2023-12",
+        "descricao": "Desenvolvimento de interfaces responsivas."
       }
     ],
     "formacao": [
       {
         "curso": "Sistemas de Informação",
         "instituicao": "USP",
-        "ano": 2021
+        "ano": 2015
+      },
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2022
       }
     ],
     "projetos": [
