@@ -1,7 +1,19 @@
+import { useEffect, useState } from "react"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
 
 function App() {
+
+  const [usuarios, setUsuarios] = useState([])
+
+  useEffect(() => {
+    fetch("../usuarios.json")
+    .then(res => res.json())
+    .then(data => {
+      setUsuarios(data)
+      console.log(data)
+    })
+  }, [])
 
   return (
     <>
