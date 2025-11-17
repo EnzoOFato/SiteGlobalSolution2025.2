@@ -754,5 +754,1895 @@
     "certificacoes": ["CX Excellence"],
     "idiomas": [{ "idioma": "Espanhol", "nivel": "Intermediário" }],
     "areaInteresses": ["Customer Experience", "UX"]
+  },
+  {
+    "id": 26,
+    "nome": "Marina Duarte",
+    "foto": "https://randomuser.me/api/portraits/women/26.jpg",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional experiente atuando em finanças com foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Mobile Developer",
+        "inicio": "2020-01",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de finanças, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Lucas Pacheco",
+    "foto": "https://randomuser.me/api/portraits/men/27.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2021-01",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Aline Costa",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Profissional experiente atuando em tecnologia com foco em resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UI Designer",
+        "inicio": "2021-09",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de tecnologia, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Renato Farias",
+    "foto": "https://randomuser.me/api/portraits/men/29.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Product Owner",
+        "inicio": "2020-09",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Julia Nascimento",
+    "foto": "https://randomuser.me/api/portraits/women/30.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Profissional experiente atuando em design com foco em resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UI Designer",
+        "inicio": "2019-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de design, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Daniel Freitas",
+    "foto": "https://randomuser.me/api/portraits/men/31.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Campinas/SP",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista Financeiro",
+        "inicio": "2021-03",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Bruna Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/32.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Profissional experiente atuando em infraestrutura com foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UI Designer",
+        "inicio": "2021-04",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de infraestrutura, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Thiago Camargo",
+    "foto": "https://randomuser.me/api/portraits/men/33.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional experiente atuando em finanças com foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista Financeiro",
+        "inicio": "2020-04",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de finanças, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Patrícia Souza",
+    "foto": "https://randomuser.me/api/portraits/women/34.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional experiente atuando em gestão com foco em resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Flexibilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Product Owner",
+        "inicio": "2020-02",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de gestão, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Gabriel Monteiro",
+    "foto": "https://randomuser.me/api/portraits/men/35.jpg",
+    "cargo": "Administrador de Sistemas",
+    "resumo": "Profissional experiente atuando em gestão com foco em resultados.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Administrador de Sistemas",
+        "inicio": "2018-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de gestão, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Larissa Mendes",
+    "foto": "https://randomuser.me/api/portraits/women/36.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Profissional experiente atuando em marketing com foco em resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UI Designer",
+        "inicio": "2019-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de marketing, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Rafael Tavares",
+    "foto": "https://randomuser.me/api/portraits/men/37.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional experiente atuando em infraestrutura com foco em resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-05",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de infraestrutura, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Carolina Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/38.jpg",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional experiente atuando em design com foco em resultados.",
+    "localizacao": "Campinas/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Mobile Developer",
+        "inicio": "2017-05",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de design, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Eduardo Santana",
+    "foto": "https://randomuser.me/api/portraits/men/39.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Profissional experiente atuando em tecnologia com foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UI Designer",
+        "inicio": "2019-06",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de tecnologia, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Isabela Moura",
+    "foto": "https://randomuser.me/api/portraits/women/40.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional experiente atuando em marketing com foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de RH",
+        "inicio": "2020-02",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de marketing, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Ricardo Teixeira",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional experiente atuando em design com foco em resultados.",
+    "localizacao": "Campinas/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2020-01",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de design, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Manuela Borges",
+    "foto": "https://randomuser.me/api/portraits/women/42.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional experiente atuando em infraestrutura com foco em resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de Marketing",
+        "inicio": "2020-02",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de infraestrutura, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Felipe Araújo",
+    "foto": "https://randomuser.me/api/portraits/men/43.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de QA",
+        "inicio": "2017-02",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Natália Fernandes",
+    "foto": "https://randomuser.me/api/portraits/women/44.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional experiente atuando em marketing com foco em resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2018-06",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de marketing, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Bruno Carvalho",
+    "foto": "https://randomuser.me/api/portraits/men/45.jpg",
+    "cargo": "Analista de Marketing",
+    "resumo": "Profissional experiente atuando em marketing com foco em resultados.",
+    "localizacao": "Salvador/BA",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de Marketing",
+        "inicio": "2019-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de marketing, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Luana Martins",
+    "foto": "https://randomuser.me/api/portraits/women/46.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional experiente atuando em tecnologia com foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Gerente de Projetos",
+        "inicio": "2020-03",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de tecnologia, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "André Souza",
+    "foto": "https://randomuser.me/api/portraits/men/47.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Flexibilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista Financeiro",
+        "inicio": "2017-03",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Tatiane Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/48.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de RH",
+        "inicio": "2021-01",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Henrique Dias",
+    "foto": "https://randomuser.me/api/portraits/men/49.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional experiente atuando em design com foco em resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Java",
+      "Spring Boot",
+      "Docker"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Product Owner",
+        "inicio": "2019-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de design, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Vitória Castro",
+    "foto": "https://randomuser.me/api/portraits/women/50.jpg",
+    "cargo": "Especialista em Cloud",
+    "resumo": "Profissional experiente atuando em finanças com foco em resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Especialista em Cloud",
+        "inicio": "2018-02",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de finanças, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "João Pedro Lemos",
+    "foto": "https://randomuser.me/api/portraits/men/51.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Profissional experiente atuando em gestão com foco em resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Colaboração",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Product Owner",
+        "inicio": "2017-05",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de gestão, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Marcela Furtado",
+    "foto": "https://randomuser.me/api/portraits/women/52.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2017-06",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "César Barros",
+    "foto": "https://randomuser.me/api/portraits/men/53.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente atuando em design com foco em resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2018-03",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de design, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Helena Prado",
+    "foto": "https://randomuser.me/api/portraits/women/54.jpg",
+    "cargo": "Analista de QA",
+    "resumo": "Profissional experiente atuando em rh com foco em resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "RH",
+    "habilidadesTecnicas": [
+      "Figma",
+      "UI",
+      "Usabilidade"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista de QA",
+        "inicio": "2017-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de rh, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Gustavo Telles",
+    "foto": "https://randomuser.me/api/portraits/men/55.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Profissional experiente atuando em tecnologia com foco em resultados.",
+    "localizacao": "Salvador/BA",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Analista Financeiro",
+        "inicio": "2021-07",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de tecnologia, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Amanda Rocha",
+    "foto": "https://randomuser.me/api/portraits/women/56.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Profissional experiente atuando em gestão com foco em resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UI Designer",
+        "inicio": "2017-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de gestão, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Márcio Brito",
+    "foto": "https://randomuser.me/api/portraits/men/57.jpg",
+    "cargo": "Desenvolvedor Frontend",
+    "resumo": "Profissional experiente atuando em finanças com foco em resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Desenvolvedor Frontend",
+        "inicio": "2017-02",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de finanças, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Sabrina Amaral",
+    "foto": "https://randomuser.me/api/portraits/women/58.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente atuando em infraestrutura com foco em resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": [
+      "Figma",
+      "UI",
+      "Usabilidade"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Detalhismo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "UX Designer",
+        "inicio": "2017-06",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de infraestrutura, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Paulo Vilar",
+    "foto": "https://randomuser.me/api/portraits/men/59.jpg",
+    "cargo": "Mobile Developer",
+    "resumo": "Profissional experiente atuando em gestão com foco em resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SEO",
+      "Google Ads",
+      "Copywriting"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Mobile Developer",
+        "inicio": "2017-08",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de gestão, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Lígia Medeiros",
+    "foto": "https://randomuser.me/api/portraits/women/60.jpg",
+    "cargo": "Desenvolvedor Backend",
+    "resumo": "Profissional experiente atuando em finanças com foco em resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Finanças",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pandas",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp Solutions",
+        "cargo": "Desenvolvedor Backend",
+        "inicio": "2017-05",
+        "fim": "Atualmente",
+        "descricao": "Atuação estratégica no setor de finanças, contribuindo para melhoria de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Superior em área relacionada",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto profissional relevante",
+        "link": "#",
+        "descricao": "Desenvolvimento e implementação de melhorias significativas."
+      }
+    ],
+    "certificacoes": [
+      "Certificação profissional reconhecida"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação",
+      "Desenvolvimento contínuo"
+    ]
   }
 ]
