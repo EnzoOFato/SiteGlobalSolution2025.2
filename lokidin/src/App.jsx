@@ -14,7 +14,7 @@ function App() {
   const [modo, setModo] = useState("")
 
   useEffect(() => {
-    fetch("../usuarios.json")
+    fetch("/usuarios.json")
     .then(res => res.json())
     .then(data => {
       setUsuarios(data)
