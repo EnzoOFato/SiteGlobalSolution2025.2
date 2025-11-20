@@ -2,17 +2,18 @@ import { useState } from "react";
 import Modal from "../components/Modal";
 import pin from "../assets/imgs/modal/pin.png";
 import maleta from "../assets/imgs/modal/maleta.png";
+import { MdCircle } from "react-icons/md"
 
 export default function Card({nome, foto, cargo, resumo, localizacao, formacao, habilidadesTecnicas, experiencias, softSkills}){
 
     const [aberto, setAberto] = useState(false);
 
     return (
-        <div className="p-5 flex flex-col items-center justify-center bg-white shadow-md gap-5 rounded-lg h-full">
+        <div className="p-5 flex flex-col items-center justify-center bg-white shadow-md gap-5 rounded-lg h-full dark:bg-black dark:text-gray-200 text-gray-800">
             <img src={foto} alt={foto} className="rounded-full h-20 w-20" />
             <p className="text-2xl text-center font-bold text-rose-600">{nome}</p>
-            <p className="text-lg text-center font-bold text-gray-800">{cargo}</p>
-            <p className="text-md text-center font-bold text-gray-800">{resumo}</p>
+            <p className="text-lg text-center font-bold">{cargo}</p>
+            <p className="text-md text-center font-bold">{resumo}</p>
 
             <button
                 className="text-white px-4 py-2 bg-rose-600 rounded-lg w-full hover:bg-rose-600/80"
@@ -80,7 +81,7 @@ export default function Card({nome, foto, cargo, resumo, localizacao, formacao, 
                         {experiencias.map((trab, index) => (
                             <div
                                 key={index}
-                                className="bg-gray-100 rounded-lg px-5 py-4 w-full text-center flex flex-col gap-2 shadow-sm"
+                                className="bg-gray-100 dark:bg-gray-900 rounded-lg px-5 py-4 w-full text-center flex flex-col gap-2 shadow-sm"
                             >
                                 <h1 className="text-lg font-bold">
                                     Empresa: {trab.empresa}
@@ -113,8 +114,8 @@ export default function Card({nome, foto, cargo, resumo, localizacao, formacao, 
 
                     <div className="flex flex-wrap justify-center w-full gap-3">
                         {softSkills.map((skill, index) => (
-                            <span key={index} className="text-lg text-center">
-                                {skill}
+                            <span key={index} className="text-lg text-center flex justify-center items-center gap-2">
+                                <MdCircle />{skill}
                             </span>
                         ))}
                     </div>
