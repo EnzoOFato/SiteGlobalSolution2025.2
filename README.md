@@ -53,7 +53,7 @@ rodar o projeto "npm run dev"
 
 - Repositório GitHub: [Clique aqui](https://github.com/EnzoOFato/SiteGlobalSolution2025.2)
 
-- Deploy Vercel: [Clique aqui]()
+- Deploy Vercel: [Clique aqui](https://site-global-solution2025-2.vercel.app/)
 
 # Integrantes
 * Enzo Amá Fatobene - RM: 562138
